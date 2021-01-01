@@ -1,10 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # **Assignment For Numpy**
-# **PIAIC64041**
+# # **Assignment For Numpy 1**
 # 
-# **NAME AKASHA MAHFOOZ**
+# ## Name   : Akasha Mahfoozurrehman
+# ## RollNo : PIAIC64041
+# ## Batch   : 4 (Faisalabad)
 
 # Difficulty Level **Beginner**
 
@@ -280,14 +281,14 @@ arr
 
 
 arr = np.ones((4,4))
-print("Create a 2d array")
+
 print(arr)
 
 
 # In[46]:
 
 
-print("1 on the border and 0 inside in the array")
+
 arr[1:-1,1:-1] = 0
 print(arr)
 
